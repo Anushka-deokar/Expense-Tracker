@@ -17,4 +17,5 @@ A simple and easy-to-use Expense Tracker built with TypeScript, HTML, and CSS. T
 3. View and manage your expenses in the history section.  
 4. Use filters to sort expenses based on category or date.
 
-   ## Google drive vid link : https://drive.google.com/file/d/1ZjM5-Wzk9UmE-7_cFyOUZKkH0M0nRNbD/view?usp=drive_link
+   ## Google drive vid link :
+    https://drive.google.com/file/d/1ZjM5-Wzk9UmE-7_cFyOUZKkH0M0nRNbD/view?usp=drive_link
